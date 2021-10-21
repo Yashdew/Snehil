@@ -537,6 +537,19 @@ ul.list-default li {
 /* ------------------------------------------------------------------------------
 	 Teams
 -------------------------------------------------------------------------------*/
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.center-yash{
+	display: flex;
+	justify-content: center;
+}
+.center-block{
+	display:block;
+	margin-right:auto;
+	margin-left:auto
+}
 .person {
 	max-width: 270px;
 	text-align: center;
